@@ -23,7 +23,7 @@ This Python program implements a simple egg catcher game using the Tkinter libra
 This code was created by Raj Narayanan
 
 **Github:**
-github.com/raju-2003
+[https://github.com/](https://github.com/)raju-2003
 
 
 **Enjoy the game!**
