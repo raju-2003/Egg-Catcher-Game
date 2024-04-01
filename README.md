@@ -22,4 +22,8 @@ This Python program implements a simple egg catcher game using the Tkinter libra
 **Credits:**
 This code was created by Raj Narayanan
 
+**Github:**
+github.com/raju-2003
+
+
 **Enjoy the game!**
